@@ -1,5 +1,5 @@
 <!-- TITLE -->
-# Gerador de Bilhetes da Dupla sena
+# Gerador de Bilhetes da Dupla Sena
 
 ***Conteúdo do Projeto:***
 
@@ -16,7 +16,7 @@
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
