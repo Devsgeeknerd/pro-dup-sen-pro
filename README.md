@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Gerador de Bilhetes da Dupla sena
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo do Projeto:***
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
