@@ -53,9 +53,9 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-dupla-sena&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-<!-- ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=FÃS&labelColor=f9e64f "Total de Seguidores") -->
+![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=FÃS&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-<!-- ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores") -->
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-dupla-sena?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
 <!-- ![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas") -->
 &nbsp;
