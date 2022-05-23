@@ -33,7 +33,7 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!-- ## MEU PROCESSO -->
 
 <!-- BUILT WITH -->
-<!-- ### CONSTRUÍDO COM -->
+### CONSTRUÍDO COM
 
 <!-- WHAT I LEARNED -->
 <!-- ### O QUE APRENDI -->
