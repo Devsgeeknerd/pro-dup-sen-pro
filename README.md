@@ -16,7 +16,7 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  * [Recursos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
+* [Autor](#autor)
 <!-- * [Agradecimentos](#agradecimentos) -->
 * [Informações](#informações)
 
