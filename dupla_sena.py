@@ -23,3 +23,4 @@ while total <= quantidade:
     numero = randint(1, 50)
     if numero not in lista:
         lista.append(numero)
+        cont += 1
