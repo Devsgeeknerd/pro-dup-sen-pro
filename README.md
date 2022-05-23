@@ -12,7 +12,7 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!--  * [Foto da tela](#foto-da-tela) -->
 <!--  * [Links](#links) -->
 * [Meu processo](#meu-processo)
-* [Construído com](#construido-com)
+  * [Construído com](#construido-com)
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  * [Recursos úteis](#recursos-úteis) -->
