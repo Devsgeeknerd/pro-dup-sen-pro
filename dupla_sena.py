@@ -11,3 +11,4 @@ jogos = list()
 # Título
 print('-' * 60)
 print('        JOGA NA DUPLA SENA        ')
+print('-' * 60)
