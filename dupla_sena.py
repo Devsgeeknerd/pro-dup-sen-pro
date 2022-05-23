@@ -9,3 +9,4 @@ lista = list()
 jogos = list()
 
 # Título
+print('-' * 60)
