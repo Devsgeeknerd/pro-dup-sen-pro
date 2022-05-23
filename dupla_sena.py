@@ -6,3 +6,6 @@ from time import sleep
 lista = list()
 
 # Jogos
+jogos = list()
+
+# Título
