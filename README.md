@@ -47,7 +47,7 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!-- ### RECURSOS ÚTEIS -->
 
 <!-- AUTHOR -->
-<!-- ## AUTOR -->
+## AUTOR
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## AGRADECIMENTOS -->
