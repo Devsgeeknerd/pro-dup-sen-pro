@@ -35,7 +35,7 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!-- BUILT WITH -->
 ### CONSTRUÍDO
 
-* Python.
+* [Python.](https://www.python.org/)
 
 <!-- WHAT I LEARNED -->
 <!-- ### O QUE APRENDI -->
