@@ -8,17 +8,17 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-* [Meu processo](#meu-processo)
-  * [Construído com](#construido-com)
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recursos úteis](#recursos-úteis) -->
-* [Autor](#autor)
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+<!-- * [Vista por cima.](#vista-por-cima) -->
+<!--  * [Foto da tela:](#foto-da-tela) -->
+<!--  * [Links:](#links) -->
+* [Meu processo.](#meu-processo)
+  * [Construído com:](#construido-com)
+<!--  * [O que aprendi:](#o-que-aprendi) -->
+<!--  * [Desenvolvimento contínuo:](#desenvolvimento-contínuo) -->
+<!--  * [Recursos úteis:](#recursos-úteis) -->
+* [Autor.](#autor)
+<!-- * [Agradecimentos.](#agradecimentos) -->
+* [Informações.](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
