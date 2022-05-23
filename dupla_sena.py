@@ -16,3 +16,5 @@ print('-' * 60)
 # Pergunta
 quantidade = int(input('Quantos bilhetes quer gerar? '))
 total = 1
+
+# Sorteando os números
