@@ -14,3 +14,4 @@ print('        JOGA NA DUPLA SENA        ')
 print('-' * 60)
 
 # Pergunta
+quantidade = int(input('Quantos bilhetes quer gerar? '))
