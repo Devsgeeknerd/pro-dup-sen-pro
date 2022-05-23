@@ -49,6 +49,8 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!-- AUTHOR -->
 ## AUTOR
 
+[Paulo Vanderley](https://github.com/Devsgeeknerd)
+
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## AGRADECIMENTOS -->
 
