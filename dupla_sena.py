@@ -25,3 +25,4 @@ while total <= quantidade:
         lista.append(numero)
         cont += 1
     if cont >= 6:
+        break
