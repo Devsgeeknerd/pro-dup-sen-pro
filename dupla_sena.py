@@ -27,3 +27,4 @@ while total <= quantidade:
     if cont >= 6:
         break
     lista.sort()
+    jogos.append(lista[:])
