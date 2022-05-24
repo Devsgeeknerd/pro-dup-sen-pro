@@ -24,3 +24,4 @@ while total <= quantidade:
     if numero not in lista:
         lista.append(numero)
         cont += 1
+    if cont >= 6:
