@@ -30,3 +30,5 @@ while total <= quantidade:
     jogos.append(lista[:])
     lista.clear()
     total += 1
+print('-=' * 6, f'SORTEANDO {quantidade} JOGOS ', '-=' * 6)
+for i, l in enumerate(jogos):
