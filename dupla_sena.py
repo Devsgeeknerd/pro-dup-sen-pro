@@ -28,3 +28,4 @@ while total <= quantidade:
         break
     lista.sort()
     jogos.append(lista[:])
+    lista.clear()
