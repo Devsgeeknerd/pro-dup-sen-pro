@@ -32,3 +32,4 @@ while total <= quantidade:
     total += 1
 print('-=' * 6, f'SORTEANDO {quantidade} JOGOS ', '-=' * 6)
 for i, l in enumerate(jogos):
+    print(f' Jogo {i+1}: {l}')
