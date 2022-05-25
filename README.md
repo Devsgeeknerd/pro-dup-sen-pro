@@ -30,7 +30,7 @@ Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de
 <!-- ### LINKS -->
 
 <!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
+## MEU PROCESSO
 
 <!-- BUILT WITH -->
 ### CONSTRUÍDO
